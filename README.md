@@ -13,5 +13,5 @@ Parameter 1: Indicates how many minutes to read a word
 Parameter 2: Indicates the path to read the file in English
 
 # if you want to compile this ptoject, to be aware of these pitfalls
-1. in VS tool chains, code files like *.cpp or *.hpp should to use GBK encode instead of utf-8 encode. because terminal in windows is default to use code page 936, if some tips by Chinese is going to output in terminal, garbled code will generate.
+1. in VS tool chains, code files like *.cpp or *.hpp should use GBK encode instead of utf-8 encode. because terminal in windows is default to use code page 936 which is GBK encode, if some tips by Chinese is going to output in terminal, garbled code will generate.
 2. when you use cmake command "cmake .." to generate EnglishSpeaker.sln solution file, then to open it with VS, the first thing you need to do is going to set EnglishSpeaker project as a start up project, otherwise you can not to launch and debug it.
