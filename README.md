@@ -4,7 +4,7 @@ a English words speaker program on windows platform to reviews some domain words
 # Suggestions:
 Please use the console to open the application. If you double-click to open it, the default parameters will be used. You cannot adjust the reading interval and the file to be read
 
-# Format:
+# Words File Format:
 The format of the read file is: one word on a line, and multiple words occupy multiple lines
 
 # Command line startup method:
