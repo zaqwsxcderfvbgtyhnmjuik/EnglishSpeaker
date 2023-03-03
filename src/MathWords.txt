@@ -1,0 +1,29 @@
+Add
+subtract
+multiply
+divide
+calculation
+number
+symbol
+operator
+Equal to
+Less than
+Greater than
+Not equal to
+equation
+formula
+variable
+Prime number
+index
+function
+series
+algebra
+vector
+variance
+Mean value
+theorem
+definition
+derivation
+deduction
+conclude
+Knowledge point
